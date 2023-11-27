@@ -45,3 +45,13 @@ Conclusion
 
 In conclusion, the Dynamic Stock Price Converter script offers a valuable resource for historical data analysts and investors. By automating the retrieval of historical stock data, incorporating dynamic currency conversion, and providing additional stock analysis features, the script empowers users to conduct thorough and insightful analyses of historical stock prices with precision and adaptability.
 
+Example
+
+ticker = 'DOW'
+years_back = 5
+create_dashboard(ticker, years_back)
+
+<img width="1254" alt="Screenshot 2023-11-27 at 12 54 21" src="https://github.com/glicerio-vergara/Single_Stock_Tracker/assets/79378133/44b5025a-ca8e-4dfb-8610-1bdd491f589d">
+
+
+
