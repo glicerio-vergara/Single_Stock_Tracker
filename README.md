@@ -1,7 +1,5 @@
 # Single_Stock_Tracker
 
-The primary objective is to automate and enhance the analysis of any given stock by providing a versatile tool for historical data analysts.
-
 Introduction
 
 The Dynamic Stock Price Converter is a Python script designed to facilitate the study and comparison of historical stock prices by dynamically converting them to USD. Leveraging the Yahoo Finance API and the yfinance library, this script retrieves historical stock data for a specified ticker symbol over a defined time period. The primary objective is to automate and enhance the analysis of any given stock by providing a versatile tool for historical data analysts and investors.
