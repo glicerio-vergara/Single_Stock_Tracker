@@ -2,7 +2,7 @@
 
 Introduction
 
-The Dynamic Stock Price Converter is a Python script designed to facilitate the study and comparison of historical stock prices by dynamically converting them to USD. Leveraging the Yahoo Finance API and the yfinance library, this script retrieves historical stock data for a specified ticker symbol over a defined time period. The primary objective is to automate and enhance the analysis of any given stock by providing a versatile tool for historical data analysts and investors.
+The Single Stock Tracker is a Python script designed to facilitate the study and comparison of historical stock prices by dynamically converting them to USD. Leveraging the Yahoo Finance API and the yfinance library, this script retrieves historical stock data for a specified ticker symbol over a defined time period. The primary objective is to automate and enhance the analysis of any given stock by providing a versatile tool for historical data analysts and investors.
 
 Data
 
@@ -19,10 +19,10 @@ Real-time exchange rates are obtained based on the source currency, allowing for
 3. Adaptability
 The program is adaptable, allowing users to display historical data for their desired periods, enhancing flexibility in analyzing stock performance.
 4. Stock Analysis for the Last Year
-For the last year of historical data, the script provides additional stock analysis features:
-Bollinger Bands Analysis:
+For the last year of historical data, the script provides additional stock analysis features. 
+5. Bollinger Bands Analysis
 The script calculates and visualizes Bollinger Bands, offering insights into stock volatility and potential trend reversals.
-Support and Resistance Lines:
+6. Support and Resistance Lines
 The script identifies and displays support and resistance lines, aiding in the analysis of potential price levels where a stock may experience buying or selling pressure.
 Results
 
@@ -41,7 +41,8 @@ The script extends its functionality by providing Bollinger Bands analysis and s
 
 Conclusion
 
-In conclusion, the Dynamic Stock Price Converter script offers a valuable resource for historical data analysts and investors. By automating the retrieval of historical stock data, incorporating dynamic currency conversion, and providing additional stock analysis features, the script empowers users to conduct thorough and insightful analyses of historical stock prices with precision and adaptability.
+All in all, the Single Stock Tracker offers a valuable resource for historical data analysts and investors. By automating the retrieval of historical stock data, incorporating dynamic currency conversion, and providing additional stock analysis features, the script empowers users to conduct thorough and insightful analyses of historical stock prices with precision and adaptability.
+
 
 Example
 
